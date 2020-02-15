@@ -1,5 +1,5 @@
 # deaths_netv1
-- Inject Free Internet Telkomsel
+- Inject Internet Gratis Telkomsel
 - Nol Pulsa Nol Kuota
 
 # Cara Pemakaian
